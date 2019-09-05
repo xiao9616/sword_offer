@@ -1,0 +1,18 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/560204/gitee/LearnNote/cpp/offer/constructBinaryTree/binaryTree.h
+
+/home/560204/gitee/LearnNote/cpp/offer/constructBinaryTree/main.cpp
+iostream
+-
+exception
+-
+binaryTree.h
+/home/560204/gitee/LearnNote/cpp/offer/constructBinaryTree/binaryTree.h
+

@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/StringPermutation.dir/main.cpp.o  -o StringPermutation 

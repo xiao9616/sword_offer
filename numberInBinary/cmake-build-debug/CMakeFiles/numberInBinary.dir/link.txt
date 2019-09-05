@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/numberInBinary.dir/main.cpp.o  -o numberInBinary 

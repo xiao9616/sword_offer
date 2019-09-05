@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/printReverseList.dir/main.cpp.o CMakeFiles/printReverseList.dir/List.cpp.o  -o printReverseList 

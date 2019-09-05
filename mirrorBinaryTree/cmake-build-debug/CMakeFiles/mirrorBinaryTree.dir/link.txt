@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/mirrorBinaryTree.dir/main.cpp.o  -o mirrorBinaryTree 

@@ -1,0 +1,18 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/560204/gitee/LearnNote/cpp/offer/queueWithTwoStack/Cqueue.h
+stack
+-
+
+/home/560204/gitee/LearnNote/cpp/offer/queueWithTwoStack/main.cpp
+iostream
+-
+Cqueue.h
+/home/560204/gitee/LearnNote/cpp/offer/queueWithTwoStack/Cqueue.h
+

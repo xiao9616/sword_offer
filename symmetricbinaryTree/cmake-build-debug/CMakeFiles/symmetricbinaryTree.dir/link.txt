@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/symmetricbinaryTree.dir/main.cpp.o CMakeFiles/symmetricbinaryTree.dir/binaryTree.cpp.o  -o symmetricbinaryTree 

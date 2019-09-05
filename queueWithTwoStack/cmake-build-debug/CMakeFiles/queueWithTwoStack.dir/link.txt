@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/queueWithTwoStack.dir/main.cpp.o CMakeFiles/queueWithTwoStack.dir/Cqueue.cpp.o  -o queueWithTwoStack 

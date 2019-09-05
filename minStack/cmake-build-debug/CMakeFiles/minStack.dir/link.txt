@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/minStack.dir/main.cpp.o CMakeFiles/minStack.dir/StackMin.cpp.o  -o minStack 

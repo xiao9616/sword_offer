@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/Power.dir/main.cpp.o  -o Power 

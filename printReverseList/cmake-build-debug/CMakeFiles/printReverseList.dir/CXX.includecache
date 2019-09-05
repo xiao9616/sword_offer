@@ -1,0 +1,18 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/560204/gitee/LearnNote/cpp/offer/printReverseList/List.h
+
+/home/560204/gitee/LearnNote/cpp/offer/printReverseList/main.cpp
+iostream
+-
+List.h
+/home/560204/gitee/LearnNote/cpp/offer/printReverseList/List.h
+stack
+-
+

@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/StackPushPopOrder.dir/main.cpp.o  -o StackPushPopOrder 

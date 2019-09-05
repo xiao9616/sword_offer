@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/pathInTree.dir/main.cpp.o  -o pathInTree 

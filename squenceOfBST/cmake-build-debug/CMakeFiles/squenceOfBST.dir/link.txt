@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/squenceOfBST.dir/main.cpp.o  -o squenceOfBST 

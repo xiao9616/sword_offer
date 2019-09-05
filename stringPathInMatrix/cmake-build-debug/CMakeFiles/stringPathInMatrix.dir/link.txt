@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/stringPathInMatrix.dir/main.cpp.o  -o stringPathInMatrix 
